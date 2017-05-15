@@ -1,0 +1,14 @@
+<style>
+.input_prompt, .CodeMirror-lines
+{
+  font-family: Consolas;
+  font-size: 200%;
+  line-height:1.4;
+  }
+.output_area
+{
+  font-family: Consolas;
+  font-size: 160%;
+  line-height:1.5;
+  }
+</style>
