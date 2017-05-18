@@ -11,3 +11,9 @@ You will need to sign in to Azure Notebooks, then clone this library using Pytho
 ## Link to How to Think Like a Computer Scientist: Interactive Edition
 
 [This link](http://interactivepython.org/runestone/static/thinkcspy/index.html) will take you to an interactive book from the Runestone Project at Luther College.
+
+## Workshop Survey
+
+We would *really* appreciate your feedbock on the workshop.  Please fill out
+[our survey](https://winona.az1.qualtrics.com/jfe/form/SV_2fzPIPKvWP25rzn) and
+let us know how things went!
