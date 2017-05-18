@@ -17,3 +17,8 @@ You will need to sign in to Azure Notebooks, then clone this library using Pytho
 We would *really* appreciate your feedback on the workshop.  Please fill out
 [our survey](https://winona.az1.qualtrics.com/jfe/form/SV_2fzPIPKvWP25rzn) and
 let us know how things went!
+
+
+## Link to Silas' Tableau Public Profile
+
+Some of the visualizations discussed in the workshop are available on [Silas' Tableau Public Profile (link)](https://public.tableau.com/profile/silas.bergen#!/).
